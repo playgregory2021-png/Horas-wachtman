@@ -1,0 +1,33 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Proguard folder
+proguard/
+
+# Android Studio files
+.idea/
+*.iml
+.DS_Store
+
+# Java class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated files
+bin/
+gen/
+
+# Gradle wrapper
+gradlew
+gradlew.bat
+gradle/

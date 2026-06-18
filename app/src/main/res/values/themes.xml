@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HorasWachtman" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">#6200EE</item>
+        <item name="android:colorSecondary">#03DAC5</item>
+        <item name="android:colorTertiary">#FF6200</item>
+        <item name="android:statusBarColor">#6200EE</item>
+    </style>
+</resources>
